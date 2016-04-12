@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Welcome to GitiReadMe!"
+date:   2016-04-12 08:41:10 +0800
+lang: en
+ref: welcome
+---
+
+## Welcome to GitiReadMe!

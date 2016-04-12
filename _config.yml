@@ -1,0 +1,36 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+email: gitireadme@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: gitireadme 
+github_username:  gitireadme 
+
+# Build settings
+markdown: kramdown
+
+#languages
+l:
+  en: English 
+  zh: 中文
+  
+#translate
+t:
+  en:
+    global:
+      title: GitiReadMe
+      description: >
+        GitiReadMe is a open-source decentralized multi-version article publish service built 
+        on top of GitHub 
+  zh: 
+    global:
+      title: 基体里德米
+      description: >
+        基体里德米是一个建立在GitHub上的开源的去中心化的多版本文章发布服务 
